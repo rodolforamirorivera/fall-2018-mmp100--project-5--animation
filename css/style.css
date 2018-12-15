@@ -114,5 +114,5 @@
       width: 200px;
       height: 220px;
 
-   background-image:  ('sprite.png');
+   background-image:url('../img/sprite.png');
 }
