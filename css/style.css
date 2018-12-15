@@ -113,7 +113,9 @@
 
       width: 200px;
       height: 220px;
-      margin:auto; 
+      margin:auto;
 
    background-image:url('../img/sprite.png');
 }
+
+body {text-align: center}
