@@ -98,7 +98,7 @@
    }
 }
 
-#run {
+#animation {
    animation:
       row1 1s steps(9) 0s none,
       row2 1s steps(9) 1s none,
