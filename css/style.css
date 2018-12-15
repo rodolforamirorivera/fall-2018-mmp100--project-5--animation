@@ -100,19 +100,19 @@
 
 #run {
    animation:
-      row1 1s steps(4) 0s none,
-      row2 1s steps(4) 1s none,
-      row3 1s steps(4) 2s none,
-      row4 1s steps(4) 3s none,
-      row5 1s steps(4) 4S none,
-      row6 1s steps(4) 5s none,
-      row7 1s steps(4) 6s none,
-      row8 1s steps(4) 7s none,
-      row9 1s steps(4) 8s none,
-      row10 1s steps(4) 9s none;
+      row1 1s steps(9) 0s none,
+      row2 1s steps(9) 1s none,
+      row3 1s steps(9) 2s none,
+      row4 1s steps(9) 3s none,
+      row5 1s steps(9) 4S none,
+      row6 1s steps(9) 5s none,
+      row7 1s steps(9) 6s none,
+      row8 1s steps(9) 7s none,
+      row9 1s steps(9) 8s none,
+      row10 1s steps(9) 9s none;
 
 
-   width: 125px;
-   height: 125px;
-   background-image: url('sprite.png');
+   width: 200px;
+   height: 220px;
+   background-image: ('sprite.png');
 }
