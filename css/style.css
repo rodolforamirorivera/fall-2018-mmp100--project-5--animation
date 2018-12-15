@@ -101,15 +101,15 @@
 #animation {
    animation:
       row1 1s steps(9) 0s none,
-      row2 1s steps(9) 1s none,
-      row3 1s steps(9) 2s none,
-      row4 1s steps(9) 3s none,
-      row5 1s steps(9) 4S none,
-      row6 1s steps(9) 5s none,
-      row7 1s steps(9) 6s none,
-      row8 1s steps(9) 7s none,
-      row9 1s steps(9) 8s none,
-      row10 1s steps(9) 9s none;
+      row2 1s steps(9) 0.5s none,
+      row3 1s steps(9) 1s none,
+      row4 1s steps(9) 1.5s none,
+      row5 1s steps(9) 2S none,
+      row6 1s steps(9) 2.5s none,
+      row7 1s steps(9) 3s none,
+      row8 1s steps(9) 3.5s none,
+      row9 1s steps(9) 4s none,
+      row10 1s steps(9) 4.5s none;
 
       width: 200px;
       height: 220px;
