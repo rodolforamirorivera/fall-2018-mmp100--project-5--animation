@@ -10,91 +10,91 @@
 
 @keyframes row2 {
    0% {
-      background-position: 0 -125px;
+      background-position: 0 -220px;
    }
 
    100% {
-      background-position: -500px -125px;
+      background-position: -1800px -220px;
    }
 }
 
 @keyframes row3 {
    0% {
-      background-position: 0 -250px;
+      background-position: 0 -440px;
    }
 
    100% {
-      background-position: -500px -250px;
+      background-position: -1800px -440px;
    }
 }
 
 @keyframes row4 {
    0% {
-      background-position: 0 -375px;
+      background-position: 0 -660px;
    }
 
    100% {
-      background-position: -500px -375px;
+      background-position: -1800px -660px;
    }
 }
 
 @keyframes row5 {
    0% {
-      background-position: 0 -125px;
+      background-position: 0 -880px;
    }
 
    100% {
-      background-position: -500px -125px;
+      background-position: -1800px -880px;
    }
 }
 
 @keyframes row6 {
    0% {
-      background-position: 0 -250px;
+      background-position: 0 -1100px;
    }
 
    100% {
-      background-position: -500px -250px;
+      background-position: -1800px -1100px;
    }
 }
 
 @keyframes row7 {
    0% {
-      background-position: 0 -375px;
+      background-position: 0 -1320px;
    }
 
    100% {
-      background-position: -500px -375px;
+      background-position: -1800px -1320px;
    }
 }
 
 @keyframes row8 {
    0% {
-      background-position: 0 -125px;
+      background-position: 0 -1540px;
    }
 
    100% {
-      background-position: -500px -125px;
+      background-position: -1800px -1540px;
    }
 }
 
 @keyframes row9 {
    0% {
-      background-position: 0 -250px;
+      background-position: 0 -1760px;
    }
 
    100% {
-      background-position: -500px -250px;
+      background-position: -1800px -1760px;
    }
 }
 
 @keyframes row10 {
    0% {
-      background-position: 0 -375px;
+      background-position: 0 -1980px;
    }
 
    100% {
-      background-position: -500px -375px;
+      background-position: -1800px -1980px;
    }
 }
 
@@ -111,8 +111,8 @@
       row9 1s steps(9) 8s none,
       row10 1s steps(9) 9s none;
 
+      width: 200px;
+      height: 220px;
 
-   width: 200px;
-   height: 220px;
-   background-image: ('sprite.png');
+   background-image:  ('sprite.png');
 }
